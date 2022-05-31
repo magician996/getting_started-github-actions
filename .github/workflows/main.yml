@@ -39,4 +39,4 @@ jobs:
           git --version
           echo what about build tools?
           gradle --version
-          ant --version
+          ant -version
